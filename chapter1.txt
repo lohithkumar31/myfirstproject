@@ -1,1 +1,2 @@
 Learning about git command git add git commit github and version control system
+commiting cod eto stage
