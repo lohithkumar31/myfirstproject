@@ -1,0 +1,3 @@
+chapter1 
+i have learn today git commands
+i have completed the stage
