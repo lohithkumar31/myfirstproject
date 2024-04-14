@@ -1,5 +1,7 @@
-Learning about git command git add git commit github and version control system
-commiting cod eto stage
+
 add git ignore
 testing the branch
 tetsing the branch2 
+testing the branch chapter4
+tetx
+text3
